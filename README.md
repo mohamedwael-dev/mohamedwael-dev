@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there 👋, I'm Mohamed Wael
 
-<!--
-**mohamedwael-dev/mohamedwael-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm passionate about web development and enjoy building modern, responsive websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning:
+
+* React.js
+* JavaScript (ES6+)
+* Front-End Development
+
+💻 Technologies I use:
+
+* HTML5
+* CSS3
+* JavaScript
+* React
+* Bootstrap
+* Git & GitHub
+
+## 📂 Featured Projects
+
+### 🎓 Codixa
+
+An educational platform built with HTML, CSS, and JavaScript.
+
+### 📚 FocusMind
+
+A productivity and study assistant designed to help students stay focused.
+
+### 🌐 Portfolio Website
+
+My personal portfolio showcasing my projects and skills.
+
+## 📫 Connect with Me
+
+* LinkedIn: https://www.linkedin.com/in/mohamedwael-dev
+* Email: [saidwael610@email.com](mailto:saidwael610@email.com)
+
+Thanks for visiting my profile!
