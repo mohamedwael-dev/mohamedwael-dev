@@ -7,7 +7,7 @@ I'm passionate about web development and enjoy building modern, responsive websi
 🌱 Currently learning:
 
 * React.js
-* JavaScript (ES6+)
+* JavaScript
 * Front-End Development
 
 💻 Technologies I use:
